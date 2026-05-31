@@ -19,4 +19,4 @@ I am building public maintenance practices that make small projects easier to re
 - Contributor documentation
 - Documentation review workflows
 
-Featured repository: [oss-maintenance-workflows](https://github.com/yuki-reimei/oss-maintenance-workflows)
+Featured repository: [oss-maintenance-workflows](https://github.com/ReimeiTechDev/oss-maintenance-workflows)
